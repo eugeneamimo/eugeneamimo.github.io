@@ -23,7 +23,8 @@ body, html {
     margin-right: 0;
   }
 }
-  footer{
+ 
+footer{
 width: 100%;
 background-color:rgb(247, 233, 216) ;
 height: 6.25rem;
@@ -557,13 +558,14 @@ padding: 0.938rem;
       width: 85%;
      
     }
+  }
   
     .container2 img {
       margin: auto;
       float: none;
       display: block;
     }
-  }
+  
 
   .checked {
     color: orange;
@@ -628,6 +630,8 @@ padding: 0.938rem;
           padding-left: 0.625rem;
          
         }
+
+      }
       
 
      
@@ -698,6 +702,8 @@ padding: 0.938rem;
     padding-bottom: 1.25rem ;
     
   }
+
+
 @media screen and (max-width: 650px) {
     .contactuscard {
       width: 85%;
@@ -941,6 +947,7 @@ input[type=submit]:hover {
 
   padding-right: 1.25rem;
   width: 23.75rem;
+  height: 25rem;
   
 }
 
