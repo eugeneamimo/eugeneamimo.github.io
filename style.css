@@ -52,8 +52,9 @@ display: block;
 
   @media screen and (max-width: 650px) {
     .footerabout {
-     width: 140%; 
+     width: 150%; 
      font-size: 1.5rem;
+     padding: 10px;
     }
   }
 
