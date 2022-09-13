@@ -149,8 +149,8 @@ display: block;
   .logo {
     margin-top: 0.625rem;
     margin-left: 1.25rem;
-    width: 3rem;
-    height: 1rem;
+    width: 0.313rem;
+    height: 0.313rem;
   }
   .logo:hover{
   opacity: 50%;
