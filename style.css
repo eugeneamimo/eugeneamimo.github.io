@@ -132,7 +132,7 @@ display: block;
   @media screen and (max-width: 650px) {
     .bg{
     width: 120%;
-    height: 60%;
+    height: 50%;
     }
   }
   
