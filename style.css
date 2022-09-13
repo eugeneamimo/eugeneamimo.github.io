@@ -603,7 +603,7 @@ padding: 0.938rem;
     @media (max-width: 650px) {
       .container2 img {
         margin: auto;
-      float: center;
+      float: none;
       display: block;
         
       }
