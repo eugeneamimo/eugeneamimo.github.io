@@ -599,6 +599,15 @@ padding: 0.938rem;
       float: left;
       display: block;
     }
+
+    @media (max-width: 650px) {
+      .container2 img {
+        margin: auto;
+      float: center;
+      display: block;
+        
+      }
+    }
   
 
   .checked {
