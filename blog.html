@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<HTML>
+ <Head>
+ <Title>Eugene Amimo</title>
+ <meta charset=UTF-8>
+ <meta name="viewport" content="width=device-width", initial-scale="1.0" >
+ <link rel="stylesheet" type="text/css" href="style.css">
+ <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </Head>
+<body>
+
+
+   <!-- Simulate a smartphone / tablet -->
+<div class="mobile-container">
+
+  <!-- Top Navigation Menu -->
+  <div class="topnav">
+    <div class="mobilelogo">
+      <a href="index.html"> <img src="images/desktoplogo.png"> </a>
+      </div>
+    <div id="myLinks">
+      <a href="index.html">Home</a>
+      <a href="contacts.html">Contact Us</a>
+      <a href="services.html">Services</a>
+      <a href="projects.html">Previous Projects</a>
+      <a href="about.html">About </a>
+
+
+    </div>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+  
+  <script>
+    function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+    }
+    </script>
+    
+    
+    
+
+<nav>
+
+    <div class="logo">
+  <a href="index.html"> <img src="images/desktoplogo.png"> </a>
+  
+  </div>
+ 
+      <ul> 
+  
+    <li><a href="index.html">Home</a></li>
+    <li><a href="contacts.html">Contact Us</a></li>
+    <li><a href="services.html">Services</a></li>
+    <li><a href="projects.html">Previous Projects</a></li>
+    <li><a href="blog.html">Blog</a></li>
+    <li><a href="about.html">About </a></li>
+   
+   </ul>
+  
+  </nav>
