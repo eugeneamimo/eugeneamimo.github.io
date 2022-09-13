@@ -915,6 +915,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 650px) {
   .bg4{
   width: 120%;
+  height: 40%;
   }
 }
 
