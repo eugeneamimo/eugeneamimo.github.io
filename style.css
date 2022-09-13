@@ -596,7 +596,7 @@ padding: 0.938rem;
   
     .container2 img {
       margin: auto;
-      float: none;
+      float: left;
       display: block;
     }
   
