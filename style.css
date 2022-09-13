@@ -165,12 +165,16 @@ display: block;
   }
   
 
+  .logos{
+    border: 1px solid black;
+  }
+
   .logo {
     margin-top: 0.625rem;
     margin-left: 1.25rem;
     width: 0.313rem;
     height: 0.313rem;
-    border: 1px solid black;
+    
   }
   .logo:hover{
   opacity: 50%;
@@ -196,7 +200,6 @@ display: block;
 .mobilelogo{
 margin-left: 5px;
 width: 40px;
-
 }
 
 
