@@ -132,7 +132,7 @@ display: block;
   @media screen and (max-width: 650px) {
     .bg{
     width: 120%;
-    height: 50%;
+    height: 60%;
     }
   }
   
@@ -721,7 +721,7 @@ padding: 0.938rem;
 @media screen and (max-width: 650px) {
   .bg2{
   width: 120%;
-  height:35%
+  height:40%
   }
 }
 
@@ -894,6 +894,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 650px) {
   .bg3{
   width: 120%;
+  height: 40%;
   }
 }
 
@@ -967,6 +968,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 650px) {
   .bg5{
   width: 155%;
+  height: 40%;
   }
 }
 
