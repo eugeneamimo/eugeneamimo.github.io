@@ -34,9 +34,26 @@ display: block;
 
   }
 
+  .footerabout{
+width: 100%;
+background-color:rgb(247, 233, 216) ;
+height: 6.25rem;
+padding-top: 0.938rem;
+margin-top: 1.25rem;
+display: block;
+
+  }
+
   @media screen and (max-width: 650px) {
     footer {
      width: 120%; 
+    }
+  }
+
+  @media screen and (max-width: 650px) {
+    .footerabout {
+     width: 140%; 
+     font-size: 1.5rem;
     }
   }
 
