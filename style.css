@@ -693,6 +693,8 @@ padding: 0.938rem;
         /* Hide the right column on small screens */
         .right {
           display: block;
+          text-align: right;
+          margin-right: 0;
         }
       }
       
