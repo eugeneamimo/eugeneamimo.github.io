@@ -382,7 +382,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   /* Display the columns below each other instead of side by side on small screens */
   @media screen and (max-width: 650px) {
     .column {
-      width: 100%;
+      width: 120%;
       display: block;
       margin-left: 10px;
     }
@@ -402,7 +402,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
   @media screen and (max-width: 650px) {
   .card {
-  width: 90%;
+  width: 100%;
   margin-left:0;
   }
   }
@@ -438,7 +438,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
   @media screen and (max-width: 650px) {
   .businesscard {
-  width: 85%;
+  width: 100%;
   margin-left:0;
   }
   }
@@ -752,7 +752,7 @@ padding: 0.938rem;
 
 @media screen and (max-width: 650px) {
     .contactuscard {
-      width: 85%;
+      width: 100%;
       margin-left:0;
     }
   }
