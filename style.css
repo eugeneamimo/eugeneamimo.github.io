@@ -310,7 +310,7 @@ h2{
   h2{
 font-size: 2rem;
 text-align: center;
-margin-left: 9%;
+width: 127%;
 
 
 
@@ -350,7 +350,7 @@ padding-top: 0px;
   .h3title{
 font-size: 1.25rem;
 text-align: center;
-margin-left: 7%;
+width: 127%;
 
   }
 }
