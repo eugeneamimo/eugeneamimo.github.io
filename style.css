@@ -670,6 +670,7 @@ padding: 0.938rem;
       @media (max-width: 650px) {
         .bar-container{
           padding-left: 0.625rem;
+          width: 100%;
          
         }
 
