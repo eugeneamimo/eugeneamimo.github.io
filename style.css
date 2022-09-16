@@ -308,9 +308,8 @@ h2{
 
 @media screen and (max-width: 650px) {
   h2{
-font-size: 1.3rem;
-text-align: center;
-margin-left: 9%;
+font-size: 2rem;
+text-align: left;
 
 
 
@@ -348,9 +347,9 @@ padding-top: 0px;
 
  @media screen and (max-width: 650px) {
   .h3title{
-font-size: 1.25rem;
-text-align: center;
-margin-left: 7%;
+font-size: 1.5rem;
+text-align: left;
+
 
   }
 }
