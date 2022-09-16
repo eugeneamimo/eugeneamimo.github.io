@@ -512,6 +512,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   .solutions{
 font-size:1.5rem;
 text-align: left;
+font-weight: 300;
 
   }
 }
