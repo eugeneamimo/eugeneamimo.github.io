@@ -195,6 +195,13 @@ display: block;
   top: 0;
   left: 0;
   z-index: 2;
+  -webkit-transition: all 0.3s linear;
+  -khtml-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+      -o-transition: all 0.3s linear;
+         transition: all 0.3s linear;
+
+  
 
  
 }
@@ -218,6 +225,13 @@ width: 40px;
   text-decoration:none;
   font-size: 22px;
   display: block;
+  -webkit-transition: all 0.3s linear;
+  -khtml-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+      -o-transition: all 0.3s linear;
+         transition: all 0.3s linear;
+
+  
 }
 
 /* Style the hamburger menu */
