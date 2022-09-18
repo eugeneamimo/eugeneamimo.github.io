@@ -411,7 +411,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
   .card:hover{
-width: 20rem;
+margin-top: -2;
   }
   
   @media screen and (max-width: 650px) {
