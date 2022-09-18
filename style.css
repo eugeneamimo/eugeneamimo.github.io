@@ -1010,7 +1010,7 @@ input[type=submit]:hover {
   width: 22rem;
   height: 22rem;
   border-radius: 20px;
-  border: 1px solid orangered;
+  
   
 }
 
@@ -1022,7 +1022,7 @@ input[type=submit]:hover {
     padding-bottom: 1.25rem;
     height: 27rem;
     border-radius: 20px;
-    border: 1px solid orangered;
+ 
 
 
    
