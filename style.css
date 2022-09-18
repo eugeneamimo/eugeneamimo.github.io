@@ -417,7 +417,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
   @media screen and (max-width: 650px) {
     .card:hover{
-      width: 100%;
+      width: 96%;
     }
   }
   
@@ -479,7 +479,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
   @media screen and (max-width: 650px) {
     .businesscard:hover{
-      width: 100%;
+      width: 96%;
     }
   }
   
