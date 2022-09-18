@@ -298,6 +298,11 @@ ul li a
 {
 	text-decoration: none;
 	color: rgb(2, 2, 2);
+  -webkit-transition: all 0.3s linear;
+  -khtml-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+      -o-transition: all 0.3s linear;
+         transition: all 0.3s linear;
   
 }
 
@@ -305,7 +310,7 @@ ul li a:hover
 {
 color:orangered;
 text-decoration: underline;
-font-weight: 600;
+
 
 }
 
