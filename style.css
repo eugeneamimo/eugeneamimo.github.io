@@ -310,6 +310,7 @@ ul li a:hover
 {
 color:orangered;
 text-decoration: underline;
+text-shadow: 3px 3px 8px orangered;
 
 
 
