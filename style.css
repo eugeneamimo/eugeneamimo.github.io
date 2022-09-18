@@ -209,6 +209,7 @@ width: 40px;
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
   display: none;
+  
 }
 
 /* Style navigation menu links */
@@ -218,8 +219,18 @@ width: 40px;
   text-decoration:none;
   font-size: 22px;
   display: block;
+  -webkit-transition: all 0.3s linear;
+  -khtml-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+      -o-transition: all 0.3s linear;
+         transition: all 0.3s linear;
+
   
 }
+
+
+
+
 
 /* Style the hamburger menu */
 .topnav a.icon {
@@ -229,12 +240,6 @@ width: 40px;
   right: 0;
   top: 0;
   padding-top: 20px;
-  -webkit-transition: all 0.3s linear;
-  -khtml-transition: all 0.3s linear;
-    -moz-transition: all 0.3s linear;
-      -o-transition: all 0.3s linear;
-         transition: all 0.3s linear;
-
   
 }
 
