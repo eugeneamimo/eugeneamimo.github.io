@@ -1110,4 +1110,8 @@ input[type=submit]:hover {
   }
 }
 
+br{
+padding-bottom: 10px;
+}
+
 
