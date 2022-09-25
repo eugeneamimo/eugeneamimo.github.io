@@ -1080,7 +1080,7 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 650px) {
   .eugene {
-    width: 24rem;
+    width: 26rem;
     display: block;
     margin-left: 3.75rem;
     padding-bottom: 1.25rem;
