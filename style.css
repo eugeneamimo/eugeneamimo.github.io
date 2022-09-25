@@ -14,8 +14,8 @@ body, html {
 
 
 .wrap{
-  margin-left: 6.25rem;
-  margin-right: 6.25rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
 }
 @media screen and (max-width: 650px) {
   .wrap {
@@ -1052,6 +1052,7 @@ input[type=submit]:hover {
 .aboutcontainer{
   display:flex;
   text-align:left;
+  
 
 }
 
@@ -1069,8 +1070,8 @@ input[type=submit]:hover {
 
 .eugene{
 
-  padding-right: 10px;
-  width: 22rem;
+  padding-right: 1px;
+  width: 23rem;
   height: 22rem;
 
   
