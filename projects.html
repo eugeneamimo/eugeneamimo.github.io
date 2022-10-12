@@ -94,6 +94,58 @@
       </div>
   </div>
 </div>
+
+<div class="column">
+  <div class="card" style="padding-bottom:10px">
+    <img src="Images/masks1.jpg" alt="outcome" style="width:100%" height="210px">
+    <div class="container">
+      <h3 class="animate__animated animate__backInLeft">Perioperative Nurses Chapter of Kenya</h3>
+      <p>Perioperative Nurses chapter consists of a group nurses specialized in clinical pre and post-operative surgical care, perioperative nurses ensure safe and efficient operations by assessing patient needs, directing patient care, handling sanitation concerns, and assisting surgeons during procedures.</p>
+      
+      <script>
+        // Set the date we're counting down to
+        var countDownDate = new Date("Nov 30, 2022 15:37:25").getTime();
+        
+        // Update the count down every 1 second
+        var x = setInterval(function() {
+        
+          // Get today's date and time
+          var now = new Date().getTime();
+            
+          // Find the distance between now and the count down date
+          var distance = countDownDate - now;
+            
+          // Time calculations for days, hours, minutes and seconds
+          var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+          var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+          var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            
+          // Output the result in an element with id="demo"
+          document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+          + minutes + "m " + seconds + "s ";
+            
+          // If the count down is over, write some text 
+          if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("demo").innerHTML = "EXPIRED";
+          }
+        }, 1000);
+        </script>
+
+
+
+      <h3><a href="" target="_blank"><button class="button2">Coming Soon</button></h3></a>
+
+  </div>
+</div>
+</div>
+
+
+
+
+
+
 </div>
 
 
