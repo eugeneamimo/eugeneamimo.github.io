@@ -1110,5 +1110,10 @@ input[type=submit]:hover {
   }
 }
 
+.countdown{
+
+font-weight: 700;
+text-align: center;
+}
 
 
