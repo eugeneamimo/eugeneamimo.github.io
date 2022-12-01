@@ -166,6 +166,17 @@ text-align: center;
 display: block;
 
   }
+
+  .animate__animated.animate__zoomIn{
+    animation-duration: 4s;
+text-align: center;
+display: block;
+
+
+  }
+
+
+
   
 
   .logos{
