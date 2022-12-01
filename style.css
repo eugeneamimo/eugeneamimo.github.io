@@ -152,7 +152,7 @@ display: block;
 
   @media screen and (max-width: 650px) {
     .bg h1{
-    font-size: 3rem;
+    font-size: 6rem;
     text-align:center;
 
     }
@@ -175,9 +175,6 @@ display: block;
 
   }
 
-
-
-  
 
   .logos{
     border: 1px solid black;
