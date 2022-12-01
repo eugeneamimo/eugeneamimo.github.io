@@ -142,7 +142,7 @@ display: block;
 
 
   .bg h1{
-    font-size: 3.95rem;
+    font-size: 6rem;
     color: white;
     text-align: center;
     padding-top: 3.125rem;
@@ -168,7 +168,7 @@ display: block;
   }
 
   .animate__animated.animate__zoomIn{
-    animation-duration: 4s;
+    animation-duration: 3s;
 text-align: center;
 display: block;
 
