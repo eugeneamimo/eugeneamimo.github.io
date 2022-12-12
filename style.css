@@ -208,8 +208,6 @@ display: block;
   top: 0;
   left: 0;
   z-index: 2;
-  transition: transform 250ms ease-in-out;
-  transform: translateY(0);
 
  
 }
@@ -235,6 +233,9 @@ width: 40px;
   text-decoration:none;
   font-size: 22px;
   display: block;
+  transition: transform 250ms ease-in-out;
+  transform: translateY(0);
+
   
   
 }
