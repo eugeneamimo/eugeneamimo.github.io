@@ -222,11 +222,9 @@ width: 40px;
 
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
-  display: none;
+  display: block;
   transition: transform 250ms ease-in-out;
   transform: translateY(0);
-
-  
   
 }
 
@@ -236,14 +234,8 @@ width: 40px;
   padding: 14px 16px;
   text-decoration:none;
   font-size: 22px;
-  display: block;
-  
-  
+  display: block; 
 }
-
-
-
-
 
 /* Style the hamburger menu */
 .topnav a.icon {
