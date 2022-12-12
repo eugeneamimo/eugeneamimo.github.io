@@ -222,6 +222,9 @@ width: 40px;
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
   display: none;
+  transition: transform 250ms ease-in-out;
+  transform: translateY(0);
+
   
   
 }
@@ -233,13 +236,6 @@ width: 40px;
   text-decoration:none;
   font-size: 22px;
   display: block;
-  -webkit-transition: all 0.3s linear;
-  -khtml-transition: all 0.3s linear;
-    -moz-transition: all 0.3s linear;
-      -o-transition: all 0.3s linear;
-         transition: all 0.3s linear;
-
- 
   
   
 }
