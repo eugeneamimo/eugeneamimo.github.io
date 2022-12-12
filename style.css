@@ -208,6 +208,8 @@ display: block;
   top: 0;
   left: 0;
   z-index: 2;
+  transition: transform 250ms ease-in-out;
+  transform: translateY(0);
 
  
 }
