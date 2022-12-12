@@ -222,7 +222,7 @@ width: 40px;
 
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
-  display: block;
+  display: none;
   transition: transform 250ms ease-in-out;
   transform: translateY(0);
   
