@@ -209,8 +209,6 @@ display: block;
   top: 0;
   left: 0;
   z-index: 2;
-
- 
 }
 
 .mobilelogo{
@@ -218,13 +216,9 @@ margin-left: 5px;
 width: 40px;
 }
 
-
-
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
   display: none;
-  transition: transform 250ms ease-in-out;
-  transform: translateY(0);
   
 }
 
