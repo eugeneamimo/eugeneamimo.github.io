@@ -141,10 +141,6 @@ display: block;
     }
   }
 
-  
-  
-
-
   .bg h1{
     font-size: 3.5rem;
     color: white;
@@ -162,8 +158,6 @@ display: block;
     }
   }
   
-
-
   .animate__animated.animate__backInLeft{
 animation-duration: 2s;
 text-align: center;
@@ -227,7 +221,7 @@ width: 40px;
   color: black;
   padding: 14px 16px;
   text-decoration:none;
-  font-size: 22px;
+  font-size: 25px;
   display: block; 
 }
 
@@ -885,6 +879,7 @@ padding: 0.938rem;
     width: 200px;
     margin-left: auto;
     margin-right: auto;
+    
     -webkit-transition: all 0.3s linear;
     -khtml-transition: all 0.3s linear;
       -moz-transition: all 0.3s linear;
