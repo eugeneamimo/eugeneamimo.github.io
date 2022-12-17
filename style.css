@@ -178,7 +178,7 @@ display: block;
   
   @keyframes glow {
     from {
-      text-shadow: 0 0 10px orange, 0 0 10px orange, 0 0 10px orange, 0 0 10px , 0 0 10px orange, 0 0 10px orange, 0 0 10px orange;
+      text-shadow: 0 0 5px orange, 0 0 5px orange, 0 0 5px orange, 0 0 5px , 0 0 5px orange, 0 0 5px orange, 0 0 5px orange;
     }
     
     to {
