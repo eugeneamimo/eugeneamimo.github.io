@@ -55,13 +55,17 @@ display: block;
 
   @media screen and (max-width: 650px) {
     .footerabout {
-     width: 127%; 
+     width: 155%; 
      font-size: 1.5rem;
      padding: 20px;
     }
   }
 
 
+
+
+
+ 
 
   .footertext{
 
@@ -1071,7 +1075,7 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 650px) {
   .bg5{
-  width: 127%;
+  width: 155%;
   height: 40%;
   }
 }
@@ -1108,7 +1112,10 @@ input[type=submit]:hover {
 
   padding-right: 15px;
   width: 23rem;
-  height: 22rem;  
+  height: 22rem;
+
+  
+  
 }
 
 @media screen and (max-width: 650px) {
@@ -1118,21 +1125,25 @@ input[type=submit]:hover {
     margin-left: 3.75rem;
     padding-bottom: 1.25rem;
     height: 27rem;
+   
+ 
+
 
    
   }
 }
 
+
 .abouttext{
   font-size: 22px;
   font-weight: 400;
   text-align: left;
-  width:100%;
+  width:110%;
 }
 
 @media screen and (max-width: 650px) {
   .aboutcontainer {
-    width: 100%;
+    width: 130%;
     display: block;
   
    
