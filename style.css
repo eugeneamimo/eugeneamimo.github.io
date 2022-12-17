@@ -173,7 +173,7 @@ display: block;
   }
 
   .glow {
-    animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1.5s ease-in-out infinite alternate;
   }
   
   @keyframes glow {
@@ -182,7 +182,7 @@ display: block;
     }
     
     to {
-      text-shadow: 0 0 20px orangered, 0 0 20px orangered, 0 0 20px orangered, 0 0 20px orangered, 0 0 20px orangered, 0 0 20px orangered, 0 0 20px orangered;
+      text-shadow: 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered;
     }
   }
 
