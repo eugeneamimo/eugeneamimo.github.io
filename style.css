@@ -1160,7 +1160,7 @@ text-align: center;
   /* The image used */
   background-image: url("Images/pricing.jpg"); 
   /* Full height */
-  height: 30%;
+  height: 50%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
@@ -1172,7 +1172,7 @@ text-align: center;
 @media screen and (max-width: 650px) {
   .bg6{
   width: 127%;
-  height: 40%;
+  height: 50%;
   }
 }
 
