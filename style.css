@@ -172,19 +172,7 @@ display: block;
 
   }
 
-  .glow {
-    animation: glow 1s ease-in-out infinite alternate;
-  }
-  
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 5px orange, 0 0 5px orange, 0 0 5px orange, 0 0 5px , 0 0 5px orange, 0 0 5px orange, 0 0 5px orange;
-    }
-    
-    to {
-      text-shadow: 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered, 0 0 0px orangered;
-    }
-  }
+
 
   .logos{
     border: 1px solid black;
@@ -357,6 +345,11 @@ padding-top: 0px;
   }
 }
 
+.packages{
+  font-size: 25px;
+  text-align: center;
+    color: orangered;
+}
 
 
  .h3title{
@@ -1160,6 +1153,36 @@ input[type=submit]:hover {
 
 font-weight: 700;
 text-align: center;
+}
+
+
+.bg6 {
+  /* The image used */
+  background-image: url("Images/pricing.jpg"); 
+  /* Full height */
+  height: 30%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin-top: 5rem;
+}
+
+@media screen and (max-width: 650px) {
+  .bg6{
+  width: 127%;
+  height: 40%;
+  }
+}
+
+.bg6 h1{
+  font-size: 4rem;
+  color: white;
+  text-align: center;
+  padding-top: 3.125rem;
+  text-shadow: 3px 3px 8px black;
+
 }
 
 
